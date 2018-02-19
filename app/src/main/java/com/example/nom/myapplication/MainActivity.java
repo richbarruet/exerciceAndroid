@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         setContentView(R.layout.activity_main);
 
         // Allan was here
+        // Les Golf 3 c'est pourrit
     }
 
     @Override
