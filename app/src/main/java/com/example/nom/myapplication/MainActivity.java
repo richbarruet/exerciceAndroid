@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         // Allan was here
         // Les Golf 3 c'est pourrit
+        //Le précedent est nul
     }
 
     @Override
